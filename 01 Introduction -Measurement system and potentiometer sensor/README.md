@@ -13,7 +13,7 @@
 
 ### 1. Introduction<a id='1'></a>
 
-<img src="assets/images/1/1.png width="700">
+<img src="assets/images/1/1.png" width="700">
 
 <br>
 
