@@ -36,6 +36,8 @@
 
 ### 9. Strain Gauge Element Sensor<a id='9'></a>
 
+<img src="assets/images/02/" width="700">
+
 <br>
 
 ### 10. Strain Gauge 2<a id='10'></a>
