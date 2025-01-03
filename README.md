@@ -1,1 +1,1 @@
-# Deep-Dive-Sensors-and-Their-Uses-for-Manufacturing-Automation
+# Electrical and Electronics Measurements using sensors
