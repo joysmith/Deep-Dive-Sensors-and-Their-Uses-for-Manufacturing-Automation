@@ -182,6 +182,8 @@
 
 <img src="assets/images/33/1.png" width="700">
 
+<img src="assets/images/33/2.png" width="700">
+
 <br>
 
 ### 34. Proximity Switches<a id='34'></a>
